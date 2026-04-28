@@ -1,0 +1,11 @@
+{
+  "delay_min": 60,
+  "delay_max": 125,
+  "daily_limit": 45,
+  "send_order": "sequential",
+  "schedule_enabled": false,
+  "schedule_start": "14:00",
+  "schedule_end": "23:00",
+  "use_gaussian_delays": true,
+  "theme": "dark"
+}
